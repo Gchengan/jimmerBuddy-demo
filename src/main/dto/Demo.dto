@@ -1,0 +1,5 @@
+export test.Demo
+
+specification Test_111 {
+    id
+}
